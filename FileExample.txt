@@ -1,0 +1,3 @@
+Welcome to file handling in python .
+This is second line.
+Always close the file once the job is done. 

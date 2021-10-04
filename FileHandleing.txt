@@ -1,0 +1,6 @@
+Enter any numbers.
+Enter positive numbers.
+User entered the no. is 9
+The final result is 11.11111111111111
+The factorial is 362880
+Close the file.
