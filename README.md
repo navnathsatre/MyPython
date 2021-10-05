@@ -13,3 +13,19 @@
  
  ## --Comprehensions
  | List Comprehensions | Examples | Dictionary Comprehension | Examples |
+
+## --ExceptionHandling
+| try | except | finally |
+
+## --FileHandling
+| file create | file write | file read | pickle write | pickle read | with operator |
+
+## --Scope of variable
+| local | global |
+
+## --MRF
+| map | reduce | filter |
+
+## --Regular Expression (Regex)
+| split | findall | compile | search | sub |
+
