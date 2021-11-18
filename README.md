@@ -14,7 +14,7 @@
  ## --Comprehensions
   List Comprehensions | Examples | Dictionary Comprehension | Examples 
 
-## --ExceptionHandling
+## --Exception Handling
  try | except | finally 
 
 ## --FileHandling
